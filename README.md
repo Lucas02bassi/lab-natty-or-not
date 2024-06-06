@@ -23,19 +23,37 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Band Name Generator
 
 ## 📒 Descrição
-Este projeto utiliza uma Rede Neural Recorrente (RNN) para criar nomes de bandas de rock. A rede é treinada com nomes de bandas reais e é capaz de gerar novos nomes com base nos padrões aprendidos. Uma abordagem prática e divertida para explorar a geração de conteúdo com inteligência artificial.
+Este projeto utiliza uma Rede Neural Recorrente (RNN) para criar nomes de 
+bandas de rock. A rede é treinada com nomes de bandas reais e é capaz de 
+gerar novos nomes com base nos padrões aprendidos. Uma abordagem prática 
+e divertida para explorar a geração de conteúdo com inteligência artificial.
 
 ## 🤖 Tecnologias Utilizadas
 Python, TensorFlow, Keras, e NumPy
 
 ## 🧐 Processo de Criação
-A ideia surgiu do interesse em explorar as capacidades das inteligências artificiais generativas para criar conteúdo original e divertido. A geração de nomes de bandas de rock com uma Rede Neural Recorrente foi escolhida como uma aplicação interessante e criativa dessa tecnologia.
+A ideia surgiu do interesse em explorar as capacidades das inteligências
+ artificiais generativas para criar conteúdo original e divertido. A
+geração de nomes de bandas de rock com uma Rede Neural Recorrente foi
+ escolhida como uma aplicação interessante e criativa dessa tecnologia.
 
 ## 🚀 Resultados
-Uma maneira breve de apresentar os resultados do projeto seria destacar a capacidade do modelo treinado em gerar nomes de bandas de rock originais com base nos padrões aprendidos dos nomes reais. Isso pode ser acompanhado de um exemplo de um nome de banda gerado pelo modelo para ilustrar como ele funciona na prática. Apesar de o nome gerado não fazer sentido, o que suspeito ser pelo tamanho da base dos dados, e pelos parâmetros passados.
+Uma maneira breve de apresentar os resultados do projeto seria destacar a
+ capacidade do modelo treinado em gerar nomes de bandas de rock originais
+com base nos padrões aprendidos dos nomes reais. Isso pode ser acompanhado
+de um exemplo de um nome de banda gerado pelo modelo para ilustrar como
+ele funciona na prática. Apesar de o nome gerado não fazer sentido, o que
+ suspeito ser pelo tamanho da base dos dados, e pelos parâmetros passados.
 
 ## 💭 Reflexão (Opcional)
-Uma rápida reflexão sobre os resultados do projeto revela que, devido à quantidade limitada de dados e aos parâmetros conservadores utilizados, o modelo pode ter dificuldade em criar nomes de bandas de rock coesos e realistas. A limitação no tamanho do conjunto de dados e nos parâmetros da rede pode afetar a capacidade do modelo de capturar nuances e complexidades dos nomes reais de bandas. Portanto, para melhores resultados, seria recomendável aumentar a quantidade de dados de treinamento e ajustar os parâmetros do modelo para torná-lo mais sofisticado e expressivo.
+Uma rápida reflexão sobre os resultados do projeto revela que, devido à
+ quantidade limitada de dados e aos parâmetros conservadores utilizados,
+o modelo pode ter dificuldade em criar nomes de bandas de rock coesos e
+ realistas. A limitação no tamanho do conjunto de dados e nos parâmetros da
+ rede pode afetar a capacidade do modelo de capturar nuances e complexidades
+ dos nomes reais de bandas. Portanto, para melhores resultados, seria
+recomendável aumentar a quantidade de dados de treinamento e ajustar os
+parâmetros do modelo para torná-lo mais sofisticado e expressivo.
 ```
 
 ### Exemplos e Insigths
